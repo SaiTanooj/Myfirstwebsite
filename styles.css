@@ -1,0 +1,138 @@
+body{
+  margin: 0;
+}
+.intro{
+  background-color: #35858B;
+
+  height:500px;
+
+}
+h1{
+  position:absolute;
+  top:150px;
+  left:500px;
+  font-family: 'The Nautigal', cursive;
+  color: white;
+
+}
+p{
+  position: absolute;
+  top:200px;
+  left:580px;
+}
+.mountains{
+  position: absolute;
+  top:275px;
+  left:530px;
+}
+.cloudtop{
+  position: absolute;
+  top: 50px;
+  left:1050px;
+}
+.cloudbottom{
+  position: absolute;
+  top: 120px;
+  left:150px;
+}
+.myimage{
+
+  position: absolute;
+  top: 510px;
+  left: 620px;
+}
+.about{
+  position: absolute;
+  top: 620px;
+  left: 450px;
+}
+
+.myhobbies{
+  position: absolute;
+  top: 660px;
+  margin-left: 10px;
+}
+h2{
+  margin-left: 30px;
+}
+.myskillsimg{
+  margin-left: 30px;
+}
+.myskills{
+  position: absolute;
+  top: 660px;
+  left: 1050px;
+}
+.hobbieslist{
+  font-size: 25px;
+}
+.myproject{
+  position: absolute;
+  top: 660px;
+  left: 600px;
+}
+h4{
+  font-size: 25px;
+}
+.projectlink{
+  position: absolute;
+  top: 950px;
+  left: 500px;
+  font-size: 30px;
+  border: 1px solid black;
+  padding: 10px;
+
+}
+a{
+  text-decoration: none;
+}
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+.contactme{
+  background-color: #35858B;
+  width: 2000px;
+  height: 500px;
+  margin-top: 30px;
+  position: absolute;
+  top: 1000px;
+  font-size: 20px;
+}
+.footerheader{
+  margin-top: 10px;
+  position: absolute;
+  left: 580px;
+  font-size: 50px;
+  font-family: 'Waterfall', cursive;
+
+}
+.instaimage{
+  position: absolute;
+  margin-left: 20px;
+  top: 120px;
+}
+.mailimage{
+  position: absolute;
+  top: 120px;
+  left: 610px;
+}
+.linkedinimage{
+  position: absolute;
+  top: 120px;
+  left:1080px;
+}
